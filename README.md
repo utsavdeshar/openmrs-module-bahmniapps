@@ -1,4 +1,4 @@
-# Bahmni Apps
+# Bahmni Apps process
 
 [![Build Status](https://travis-ci.org/Bahmni/openmrs-module-bahmniapps.svg?branch=master)](https://travis-ci.org/Bahmni/openmrs-module-bahmniapps)
 
